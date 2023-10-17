@@ -1,0 +1,33 @@
+.btn {
+    background-color: red;
+    color: white;
+    width: 160px;
+    height: 60px;
+    border-radius: 5px;
+    outline: 2px solid black;
+}
+.body{
+    background-color: bisque;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-direction: column-reverse;
+}
+.btn:hover{
+    background-color: rgb(43, 4, 4) ;
+    color: white;
+}
+.carta {
+    display: flex;
+    justify-content: center;
+    
+}
+.kbir{
+    box-shadow: 0px 0 30px 0px;
+}
+.hh {
+    text-shadow: 0px 5px 5px ;
+}
